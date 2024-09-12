@@ -2,7 +2,7 @@ public class Problem1
 {
   public static void main(String[] args)
   {
-    double x = (5 / 20);
+    double x = (5.0 / 20.0);
     System.out.println(x);
   }
 }
