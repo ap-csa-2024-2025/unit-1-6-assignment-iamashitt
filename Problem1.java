@@ -2,7 +2,9 @@ public class Problem1
 {
   public static void main(String[] args)
   {
-    double x = (5.0 / 20);
+    int d = 20;
+    int n = 5;
+    double x = n / (double) d;
     System.out.println(x);
   }
 }
