@@ -15,10 +15,10 @@ public class Problem2
 {
   public static void main(String[] args)
   {
-    double d = 57.3934;s
+    double d = 57.3934;
     double n = 22.5211;
-    int wholenum1 = ;
-    int wholnum2 = ;
-  
+    int wholenum1 = int(d + 0.5);
+    int wholnum2 = int(n + 0.5);
+    System.out.println(wholenum1 + wholnum2);
   }
 }
