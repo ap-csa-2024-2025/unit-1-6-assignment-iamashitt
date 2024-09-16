@@ -14,7 +14,7 @@ public class Problem3
   public static void main(String[] args)
   {
     double num = 67.3424;
-    int x = (int)(num - 67) * 1000;
+    int x = (int)((num - 67) * 1000);
     System.out.println(x);
     
     //System.out.println(a + " " + b + " " + c)
